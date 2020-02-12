@@ -8,7 +8,7 @@ A javascript library using IMA sdk, Video JS and CSS to render sliding video ads
 ## Installation
 
 ```bash
-npm install ima-videojs-ads-player
+npm install ima-videojs-ads-player --save
 ```
 
 ## Usage
