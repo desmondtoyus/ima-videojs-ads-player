@@ -13,7 +13,15 @@
   "bin": {
     "ima-videojs-ads-player": "./index.js"
   },
-  "keywords": [],
+  "keywords": [
+    "advert",
+    "ads",
+    "ima",
+    "video",
+    "player",
+    "React",
+    "Javascript"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
