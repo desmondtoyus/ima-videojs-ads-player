@@ -1,0 +1,23 @@
+{
+  "name": "ima-videojs-ads-player",
+  "version": "1.0.0",
+  "description": "A javascript library using IMA sdk, Video JS and CSS to render sliding video ads or in-article video ads on a webpage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desmondtoyus/ima-videojs-ads-player.git"
+  },
+  "bin": {
+    "ima-videojs-ads-player": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/desmondtoyus/ima-videojs-ads-player/issues"
+  },
+  "homepage": "https://github.com/desmondtoyus/ima-videojs-ads-player#readme"
+}
