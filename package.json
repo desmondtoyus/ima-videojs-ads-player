@@ -1,6 +1,6 @@
 {
   "name": "ima-videojs-ads-player",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A javascript library using IMA sdk, Video JS and CSS to render sliding video ads or in-article video ads on a webpage.",
   "main": "index.js",
   "scripts": {
